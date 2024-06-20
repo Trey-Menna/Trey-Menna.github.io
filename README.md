@@ -1,2 +1,2 @@
-#https://trey-menna.github.io./
-My Resume Website
+## My Resume Website
+accessed at https://trey-menna.github.io./
